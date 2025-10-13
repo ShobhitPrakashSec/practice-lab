@@ -1,4 +1,4 @@
-﻿// // Excercise 6: a challenge activity using for and if statements
+﻿// // Exercise 6: a challenge activity using for and if statements
 // // https://learn.microsoft.com/en-gb/training/modules/csharp-for/3-exercise-challenge-for-statements
 
 // for ( int i =1; i <= 100; i++)

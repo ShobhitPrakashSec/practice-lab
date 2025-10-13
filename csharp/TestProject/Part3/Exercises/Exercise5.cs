@@ -1,4 +1,4 @@
-﻿// // Practice Excercise 5
+﻿// // Practice Exercise 5
 // // For Loo[]
 
 // // Basic loop
