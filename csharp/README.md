@@ -9,7 +9,9 @@
 
 ## How to run
 
-`bash`
+`powershell`
 
-```cd charp/src/project
-dotnet run```
+```sh:
+cd csharp/src/project
+dotnet run
+```
