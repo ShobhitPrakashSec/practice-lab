@@ -6,4 +6,5 @@ Minimal, professional repository for daily and weekly practice across Python, C#
 
 ## Quick Structure
 
-- [charp/](/csharp/) - per topic content
+- [csharp/](/csharp/) - A dedicated space to document and track csharp exercises, challenges, and mini projects.
+- [Python](/Python) - A dedicated space to document and track small Python exercises, challenges, and mini projects.
