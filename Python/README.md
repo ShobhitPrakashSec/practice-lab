@@ -7,7 +7,7 @@
 * [Small Challenges](./Small%20Challenges/) - A collection of standalone scripts and games.
   * [Rock Paper Scissors](#-rock-paper-scissors-game)
   * [Guess the Number](#guess-the-number)
-* [Assets](/Assets/) - A collection of screenshots
+* [Assets](/Assets/) - A collection of screenshots and small helper scripts
 
 ---
 
@@ -25,16 +25,17 @@ A classic CLI-based game where you can test your luck against the machine or a f
 #### Preview
 
 **User vs. User**
-![User vs User Screenshot](./Assets/image_user_vs_user_rock_paper_scissors_game.png)
+![User vs User Screenshot](./Assets/Images/image_user_vs_user_rock_paper_scissors_game.png)
 
 **User vs. Computer**
-![User vs Computer Screenshot](./Assets/image_user_vs_computer_rock_paper_scissors_game.png)
+![User vs Computer Screenshot](./Assets/Images/image_user_vs_computer_rock_paper_scissors_game.png)
 
 ---
 
 ## Guess the Number
 
 [View code](./Small%20Challenges/guess_the_number.py)
+
 A dual-mode guessing game where either the user or the computer attempts to identify a hidden number within a specified range.
 
 ### Features
@@ -47,10 +48,10 @@ A dual-mode guessing game where either the user or the computer attempts to iden
 #### Preview
 
 **User Guessing**
-![Guess by User Screenshot](./Assets/guess_by_user_guess_the_number_game.png)
+![Guess by User Screenshot](./Assets/Images/guess_by_user_guess_the_number_game.png)
 
 **Computer Guessing**
-![Guess by Computer Screenshot](./Assets/guess_by_computer_guess_the_number_game.png)
+![Guess by Computer Screenshot](./Assets/Images/guess_by_computer_guess_the_number_game.png)
 
 ---
 
